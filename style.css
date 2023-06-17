@@ -168,8 +168,72 @@ body {
 
 .button-right-down {
     display: flex;
-   
     flex-wrap: wrap;
 
 
+}
+
+
+.small-image2 {
+    border-radius: 20px;
+    width: 20px;
+    vertical-align: middle;
+}
+
+.name2 {
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+}
+
+.titolo2 {
+    font-size: 14px;
+    font-weight: 800;
+    width: 300px;
+    margin: 10px 0 0 40px;
+}
+
+.scritta2 {
+    font-size: 13px;
+    color: gray;
+   padding: 10px 0 0 40px;
+    
+}
+
+.trending-on-medium img {
+    vertical-align: middle;
+}
+
+.scritta-tranding {
+    font-size: 14px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.numero {
+    color: rgb(188, 187, 187);
+    font-weight: bold;
+    font-size: 30px;
+    vertical-align: middle;
+}
+
+.contenitore-trending {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    padding: 0 0 0 150px;
+    justify-content: space-between;
+}
+
+.trending-on-medium {
+    padding: 0 0 0 150px;
+}
+
+#trending-on-medium {
+    border-bottom: 1px solid rgb(209, 209, 209);
+    padding: 30px 0;
+}
+
+.trending {
+    margin-bottom: 20px;
 }
