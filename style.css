@@ -14,9 +14,6 @@ body {
     background-color: white;
     width: 100%;
     justify-content: space-between;
-   
-
-    
 }
 
 .medium {
@@ -27,17 +24,15 @@ body {
     font-size: 13px;
     display: flex;
     align-items: center;
-    margin: 0 100px 0 30px;
+    margin: 0 170px 0 30px;
     cursor: pointer;
     font-weight: 600;
- 
 }
 
 .buttons {
     display: flex;
     margin-right: 20px;
     justify-content: flex-end;
-    
 }
 
 .get-started {
@@ -98,7 +93,6 @@ body {
     width: 200px;
     height: 134px;
     padding: 0 0 0 30px;
-
 }
 
 .middle-element {
@@ -120,7 +114,6 @@ body {
     flex-direction: column;
     position: sticky;
     top: 0;
-    
 }
 
 .discover {
@@ -132,7 +125,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    
 }
 
 .button-right1 {
@@ -143,7 +135,6 @@ body {
     background-color: rgb(235, 235, 235);
     border-radius: 20px;
     cursor: pointer;
-    
 }
 
 .see {
@@ -163,14 +154,11 @@ body {
     cursor: pointer;
     padding: 0 10px 15px 0;
     font-weight: bold;
-   
 }
 
 .button-right-down {
     display: flex;
     flex-wrap: wrap;
-
-
 }
 
 
@@ -196,8 +184,11 @@ body {
 .scritta2 {
     font-size: 13px;
     color: gray;
-   padding: 10px 0 0 40px;
-    
+    padding: 10px 0 0 0px;
+}
+
+.scritta2-container {
+    margin:  0 0 0 40px;
 }
 
 .trending-on-medium img {
@@ -226,7 +217,7 @@ body {
 }
 
 .trending-on-medium {
-    padding: 0 0 0 150px;
+    padding: 0 0 20px 150px;
 }
 
 #trending-on-medium {
